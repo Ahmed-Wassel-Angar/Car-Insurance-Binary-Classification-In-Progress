@@ -9,6 +9,7 @@
 
   
 **POST-EDA OBSERVATIONS AND INSIGHTS:**
+
 - **Outcome** is negatively associated with the number of **past accidents**. **Customers who `did not claim their loans have no past accidents**.
 - **The more speeding violations a customer have, the more `accidents` and `DUIs` he commits.** These are **unattentioned** drivers. In fact, more experienced drivers with **more `annual mileage`**, more stable martial status(married with children) are **more vigilent and commits less `speeding violations`**. In the same context, 9-year driving experienced cutomers and above are very less probable to claim their loans. The threshold of 9 years is obvious within the dataset.
 - **More than 95% of drivers do not have DUIS.**
