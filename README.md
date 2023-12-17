@@ -18,5 +18,5 @@
 - **Gender has no effect**.
 - **Postal Code and Race despite being very unbalanced do not have any impact on the outcome nor on any other feature.**
 - The graphs below shows the variations of the number of 'speeding violations', 'DUIS' and 'vehicle ownership' per 'outcome' and the association of some features with each other (particularly that of speeding violations with the number of DUIS, past accidents and annual mileage), thus illustrating some of the aforementioned insights.
-![variations of the number of 'speeding violations', 'DUIS' and 'vehicle ownership' per 'outcome'](https://github.com/Ahmed-Wassel-Angar/Project-2/blob/main/Speeding%20Violations%20Variations.png?raw=true)
-![Variaitons of speeding violations with the number of DUIS, past accidents and annual mileage](https://github.com/Ahmed-Wassel-Angar/Project-2/blob/main/Outcomes%20vs.png?raw=true)
+![variations of the number of 'speeding violations', 'DUIS' and 'vehicle ownership' per 'outcome'](https://github.com/Ahmed-Wassel-Angar/Car-Insurance-Binary-Classification-In-Progress/blob/main/graph%201_Car%20Insurance%20Project.png)
+![Variaitons of speeding violations with the number of DUIS, past accidents and annual mileage](https://github.com/Ahmed-Wassel-Angar/Car-Insurance-Binary-Classification-In-Progress/blob/main/graph%202_%20Car%20Insurance%20Project_modified.png)
